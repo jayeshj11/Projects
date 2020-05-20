@@ -1,0 +1,17 @@
+Hello,
+
+This is a game I coded in python using objectived oriented programming.
+Please run connect_4.py in the shell and give the command "game()".
+
+Upon starting the game, the game will give you these options for Player 1 and Player 2 - 
+  1. Choose for Player 1 (X) -
+    a. Human Player
+    b. Random Player
+    c. AI Player
+      - Choose the level of difficulty (1,2,3 and 4)
+      
+  2. Choose for Player 2 (O) -
+    a. Human Player
+    b. Random Player
+    c. AI Player
+      - Choose the level of difficulty (1,2,3 and 4)
