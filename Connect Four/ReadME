@@ -1,7 +1,8 @@
 Hello,
 
 This is a game I coded in python using objectived oriented programming.
-Please run connect_4.py in the shell and give the command "game()".
+Please run connect_4.py in the shell and the game shall start automatically.
+If you wish to play the game again just give the command "game()" in the console.
 
 Upon starting the game, the game will give you these options for Player 1 and Player 2 - 
   1. Choose for Player 1 (X) -
